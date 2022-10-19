@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/mask_inicio"
-    tools:context=".LoginFragment">
+    tools:context=".ui.LoginFragment">
 
 
     <androidx.constraintlayout.widget.Guideline
@@ -26,6 +26,7 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.8" />
 
+    <!--TEXTO DE LOGIN-->
     <TextView
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
@@ -68,7 +69,7 @@
     </com.google.android.material.textfield.TextInputLayout>
 
 
-    <!--OTRO-->
+    <!--PASSWORD-->
     <com.google.android.material.textfield.TextInputLayout
         android:id="@+id/edtPassword"
         style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
@@ -93,6 +94,7 @@
 
     </com.google.android.material.textfield.TextInputLayout>
 
+    <!--BOTON INGRESAR-->
     <Button
         android:id="@+id/button"
         android:layout_width="0dp"
@@ -105,6 +107,7 @@
         app:layout_constraintStart_toStartOf="@+id/edtPassword"
         app:layout_constraintTop_toBottomOf="@+id/edtPassword" />
 
+    <!--BOTON REGISTRARME-->
     <Button
         android:id="@+id/button2"
         android:layout_width="0dp"

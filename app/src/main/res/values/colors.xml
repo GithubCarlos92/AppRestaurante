@@ -9,4 +9,5 @@
     <color name="white">#FFFFFFFF</color>
     <color name="rojoIntenso">#C10B19</color>
     <color name="red_button">#C10B19</color>
+    <color name="red_transparente">#80C10B19</color>
 </resources>

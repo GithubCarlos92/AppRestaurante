@@ -7,4 +7,14 @@
     <string name="login_Password">Password</string>
     <string name="login_Ingresar">Ingresar</string>
     <string name="login_Registrarme">Registrarme</string>
+    <string name="menu_subtitulo">Menu</string>
+    <string name="categoria">Categoria</string>
+    <string name="registro_subtitulo">REGISTRARME</string>
+    <string name="registro_nombres">Nombres</string>
+    <string name="registro_ape_paterno">Apellido Paterno</string>
+    <string name="registro_ape_materno">Apellido Materno</string>
+    <string name="registro_correo">Correo</string>
+    <string name="registro_clave">Clave</string>
+    <string name="registro_registrarme">REGISTRARME</string>
+    <string name="registro_volver">VOLVER</string>
 </resources>
