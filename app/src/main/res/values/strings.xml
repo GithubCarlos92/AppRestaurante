@@ -2,4 +2,9 @@
     <string name="app_name">AppRestaurante</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_subtitulo">LOGIN</string>
+    <string name="login_Email">Email</string>
+    <string name="login_Password">Password</string>
+    <string name="login_Ingresar">Ingresar</string>
+    <string name="login_Registrarme">Registrarme</string>
 </resources>

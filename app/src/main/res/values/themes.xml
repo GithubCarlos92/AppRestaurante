@@ -28,6 +28,11 @@
         <!-- Customize your theme here. -->
     </style>
 
+    <style name="StyleTextInputLayout">
+        <item name="colorOnSurface">
+            @color/white
+        </item>
 
+    </style>
 
 </resources>

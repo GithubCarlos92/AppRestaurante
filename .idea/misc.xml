@@ -4,9 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/DIPLOMADOS/TECNOLOGIAS MOVILES/Android con Kotlin/clases y laboratorios/AppRestaurante/app/src/main/res/drawable-xxhdpi/shape_rectangle_login.xml" value="0.1125" />
-        <entry key="..\:/DIPLOMADOS/TECNOLOGIAS MOVILES/Android con Kotlin/clases y laboratorios/AppRestaurante/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
-        <entry key="..\:/DIPLOMADOS/TECNOLOGIAS MOVILES/Android con Kotlin/clases y laboratorios/AppRestaurante/app/src/main/res/layout/fragment_login.xml" value="0.25" />
-        <entry key="..\:/DIPLOMADOS/TECNOLOGIAS MOVILES/Android con Kotlin/clases y laboratorios/AppRestaurante/app/src/main/res/layout/fragment_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/DIPLOMADOS/TECNOLOGIAS MOVILES/Android con Kotlin/clases y laboratorios/AppRestaurante/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1125" />
+        <entry key="..\:/DIPLOMADOS/TECNOLOGIAS MOVILES/Android con Kotlin/clases y laboratorios/AppRestaurante/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/DIPLOMADOS/TECNOLOGIAS MOVILES/Android con Kotlin/clases y laboratorios/AppRestaurante/app/src/main/res/layout/fragment_login.xml" value="0.33" />
+        <entry key="..\:/DIPLOMADOS/TECNOLOGIAS MOVILES/Android con Kotlin/clases y laboratorios/AppRestaurante/app/src/main/res/layout/fragment_splash.xml" value="0.22" />
       </map>
     </option>
   </component>
